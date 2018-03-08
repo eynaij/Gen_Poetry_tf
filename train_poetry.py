@@ -2,7 +2,7 @@
 import collections
 import numpy as np
 import tensorflow as tf
- 
+ hahaha
 #-------------------------------数据预处理---------------------------#
  
 poetry_file ='poetry.txt'
